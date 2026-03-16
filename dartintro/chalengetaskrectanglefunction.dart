@@ -8,7 +8,6 @@ void main() {
 
   int area = rumus(p, l);
 
-  // 3. Mencetak hasil
   print("=== Area of a Rectangle ===");
   print("Length : $p");
   print("Width  : $l");
